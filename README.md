@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/vitJR1/badges/large)](https://www.codewars.com/users/vitJR1)
 
 <!--
 **vitJR1/vitJR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
